@@ -1,4 +1,4 @@
-# curso-basico-dart
+# Curso Básico Dart
 Curso de primeiros passos com Dart pela Digital Innovation One.
 
 Softwares utilizados:
